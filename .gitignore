@@ -30,3 +30,4 @@ yarn-error.log*
 
 # Misc
 .DS_Store
+/.vs
